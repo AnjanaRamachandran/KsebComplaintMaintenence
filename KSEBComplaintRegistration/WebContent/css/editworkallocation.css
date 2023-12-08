@@ -1,0 +1,77 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#008080;
+	}
+.welcomeadmin{
+	width:682px;
+	height:auto;
+	overflow:hidden;
+	margin:50px;
+	padding:20px;
+	background:gray;
+	border-radius:15px;
+	}
+h1{
+	text-align:center;
+	color:#FFE4E1;
+	}	
+.workallocation{
+	width:682px;
+	height:auto;
+	overflow:hidden;
+	margin:50px;
+	padding:20px;
+	background:gray;
+	border-radius:15px;
+	}		
+h5{
+	text-align:left;
+	color:gray;
+	}	
+	
+label{
+	display:inline-block;
+	width:200px;
+	height:30px;
+	color:black;
+	font-style:Times New Roman;
+	font-size:17px;
+	border-radius:3px;
+	padding-left:8px;
+}	
+select{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+	margin-left:8px;		
+}
+submit{
+	width:50px;
+	height:30px;
+	font-size:17px;
+	border-radius:3px;
+	padding-left:8px;
+	
+}
+input[type=button],[type=submit],[type=reset]{
+	
+	color:#008080;
+	width:200px;
+	height:30px;
+	border:none;
+	border-radius:17px;
+	cursor:pointer;
+	font-size:17px;
+	margin-left:220px;
+}		
+	
+	
+		
+		
+		
+
+		
+		
